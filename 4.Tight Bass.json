@@ -305,7 +305,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": 5.78,
+                    "gain": -2.42,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -664,7 +664,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": 5.78,
+                    "gain": -2.42,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
