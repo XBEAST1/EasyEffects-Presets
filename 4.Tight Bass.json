@@ -752,7 +752,7 @@
             "dithering": "None",
             "external-sidechain": false,
             "gain-boost": true,
-            "input-gain": 0.0,
+            "input-gain": -4.2,
             "lookahead": 5.0,
             "mode": "Herm Thin",
             "output-gain": 0.0,
