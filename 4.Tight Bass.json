@@ -305,7 +305,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": -2.42,
+                    "gain": -5.97,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -327,7 +327,7 @@
                 },
                 "band6": {
                     "frequency": 81.83,
-                    "gain": 5.78,
+                    "gain": 3.08,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -664,7 +664,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": -2.42,
+                    "gain": -5.97,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -686,7 +686,7 @@
                 },
                 "band6": {
                     "frequency": 81.83,
-                    "gain": 5.78,
+                    "gain": 3.08,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -752,7 +752,7 @@
             "dithering": "None",
             "external-sidechain": false,
             "gain-boost": true,
-            "input-gain": -4.2,
+            "input-gain": 0.0,
             "lookahead": 5.0,
             "mode": "Herm Thin",
             "output-gain": 0.0,

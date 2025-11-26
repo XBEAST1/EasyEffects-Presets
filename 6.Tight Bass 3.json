@@ -1,7 +1,7 @@
 {
     "output": {
         "bass_enhancer#0": {
-            "amount": 1.500000000000019,
+            "amount": 2.0000000000000195,
             "blend": 0.0,
             "bypass": false,
             "floor": 20.0,
@@ -305,7 +305,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": 5.78,
+                    "gain": 7.25,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -316,7 +316,7 @@
                 },
                 "band5": {
                     "frequency": 65.95,
-                    "gain": 13.0,
+                    "gain": 16.2,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -664,7 +664,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": 5.78,
+                    "gain": 7.25,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -675,7 +675,7 @@
                 },
                 "band5": {
                     "frequency": 65.95,
-                    "gain": 13.0,
+                    "gain": 16.2,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -765,7 +765,9 @@
         "pitch#0": {
             "anti-alias": false,
             "bypass": false,
+            "cents": 0.0,
             "input-gain": 0.0,
+            "octaves": 0.0,
             "output-gain": 0.0,
             "overlap-length": 8,
             "quick-seek": false,
